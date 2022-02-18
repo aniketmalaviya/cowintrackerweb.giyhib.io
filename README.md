@@ -1,2 +1,2 @@
-# cowintrackerweb.giyhub.io
+# cowintrackerweb.github.io
 information about cowid cases
